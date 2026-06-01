@@ -14,3 +14,9 @@ A feature-rich desktop board game built from scratch using Java and Java Swing (
 - **GUI Framework:** Java Swing & AWT
 - **Audio Engine:** Java Sound API (javax.sound.sampled)
 - **Concepts Used:** Object-Oriented Programming (OOP), Singleton Design Pattern, Game Loop Logic, and State Management.
+
+## 🎮 How to Play the Game
+1. Go to the **Releases** section on the right side of this repository.
+2. Download the `SnakeAndLadders.jar` file.
+3. Make sure you have **Java** installed on your computer.
+4. **Double-click** the downloaded `.jar` file to launch and enjoy the game!
